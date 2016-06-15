@@ -41,19 +41,19 @@ public class SampleFragment extends LazyFragment {
         return tv;
     }
 
-    @Override
-    public void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
-        outState.putInt("param", param);
-    }
-
-    @Override
-    protected void onRestoreInstanceState(Bundle savedInstanceState) {
-        if (savedInstanceState != null) {
-            param = savedInstanceState.getInt("param");
-        }
-        super.onRestoreInstanceState(savedInstanceState);
-    }
+//    @Override
+//    public void onSaveInstanceState(Bundle outState) {
+//        super.onSaveInstanceState(outState);
+//        outState.putInt("param", param);
+//    }
+//
+//    @Override
+//    protected void onRestoreInstanceState(Bundle savedInstanceState) {
+//        if (savedInstanceState != null) {
+//            param = savedInstanceState.getInt("param");
+//        }
+//        super.onRestoreInstanceState(savedInstanceState);
+//    }
 
     @Override
     public String toString() {
