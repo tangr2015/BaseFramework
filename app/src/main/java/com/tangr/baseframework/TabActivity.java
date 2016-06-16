@@ -1,8 +1,10 @@
 package com.tangr.baseframework;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+
+import com.tangr.baseframework.base.BaseActivity;
+import com.tangr.baseframework.widgets.TabLayout;
 
 import java.util.ArrayList;
 

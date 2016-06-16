@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.tangr.baseframework.base.LazyFragment;
+
 import java.util.Random;
 
 /**

@@ -1,4 +1,4 @@
-package com.tangr.baseframework;
+package com.tangr.baseframework.widgets;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -10,6 +10,8 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.tangr.baseframework.R;
 
 import java.util.ArrayList;
 

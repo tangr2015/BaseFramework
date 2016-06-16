@@ -8,10 +8,11 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialDesign">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".TabActivity">
 
         </activity>
-        <activity android:name=".TabActivity">
+        <activity android:name=".RowViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

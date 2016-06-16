@@ -1,4 +1,4 @@
-package com.tangr.baseframework;
+package com.tangr.baseframework.base;
 
 import android.content.Context;
 import android.os.Bundle;

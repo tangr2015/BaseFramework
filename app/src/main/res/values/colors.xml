@@ -14,4 +14,9 @@
     <color name="tab_green">#ff45c01a</color>
     <color name="widgets_general_tab_pressed">#0db35e</color>
     <color name="widgets_general_tab_normal">#aaa</color>
+
+    <color name="contentview_bg">#ededf2</color>
+    <color name="rowview_bg">#fcfcfc</color>
+    <color name="rowview_bg_selected">#d6d6d6</color>
+    <color name="line_color">#d6d6d6</color>
 </resources>
